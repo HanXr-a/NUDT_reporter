@@ -1,0 +1,36 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[龚浩\ 等(2022)龚浩 and 周罗晶]{GongHaoJiYuWenBenWaJueDeWoGuo20022021NianKeYanChengXinZhengCeBianQianTeZhengFenXi2022}
+龚浩, 周罗晶.
+\newblock {基于文本挖掘的我国2002---2021年科研诚信政策变迁特征分析}\allowbreak[J/OL].
+\newblock 中华医学科研管理杂志, 2022, 35\allowbreak (05): 332-337.
+\newblock DOI: \doi{10.3760/cma.j.cn113565-20220601-00101}.
+
+\bibitem[石璐言({[2024]})]{ShiLuYanZhongGongZhongYangBanGongTingGuoWuYuanBanGongTingYinFaGuanYuJinYiBuJiaQiangKeYanChengXinJianSheDeRuoGanYiJian}
+石璐言.
+\newblock {中共中央办公厅 国务院办公厅印发《关于进一步加强科研诚信建设的若干意见}\allowbreak[Z].
+\newblock [2024].
+
+\bibitem[{国家新闻出版署}(2019)]{学术出版规范——期刊学术不端行为界定(CY/T1742019)}
+{国家新闻出版署}.
+\newblock {学术出版规范------期刊学术不端行为界定(CY/T1742019)}\allowbreak[Z].
+\newblock 2019.
+
+\bibitem[{冯凌子}\ 等(2023){冯凌子}, {杨晓}, {王立学}, {任艳青}, and {袁军鹏}]{FengLingZiShuMingWenTiZhongHuiSeDiDaiKeYanBuDuanXingWeiDeFangFanYuZhiLiJiYuCheXiaoLunWenDeFenXi2023}
+{冯凌子}, {杨晓}, {王立学}, 等.
+\newblock {署名问题中灰色地带科研不端行为的防范与治理------基于撤销论文的分析}\allowbreak[J/OL].
+\newblock 科学与社会, 2023, 13\allowbreak (1): 16-36.
+\newblock DOI: \doi{10.19524/j.cnki.10-1009/g3.2023.01.016}.
+
+\end{thebibliography}
